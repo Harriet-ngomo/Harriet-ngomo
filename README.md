@@ -29,46 +29,7 @@ Recent projects include:
 ### My Skills
 
 I wield a variety of tools and technologies to turn data into insights:
-
-
-
-### My Skills
-
-I wield a variety of tools and technologies to turn data into insights:
-
-<table>
-  <tr>
-    <th>Big Data</th>
-    <th>Python</th>
-    <th>SQL</th>
-    <th>Machine Learning</th>
-    <th>Deep Learning</th>
-    <th>Natural Language Processing</th>
-    <th>POWER BI</th>
-  </tr>
-  <tr>
-    <td>NUMPY</td>
-    <td>PANDAS</td>
-    <td>GIT</td>
-    <td>SCIKIT-LEARN</td>
-    <td>TABLEAU</td>
-    <td>SEABORN</td>
-    <td></td>
-  </tr>
-</table>
----
-
-
-
-
-
-### My Skills  
-**Technologies I work with daily:**  
-`Big Data` `Python` `SQL` `Machine Learning` `Deep Learning`  
-`PYTORCH` `NUMPY` `GIT` `TENSORFLOW` `KERAS`  
-
-
-
+`Big Data` `Python` `SQL` `Machine Learning` ``NUMPY` `GIT`
 
 ### My Interests
 
