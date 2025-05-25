@@ -3,7 +3,7 @@
 🎓 Data Scientist| Economist | Statistician
 📍 Nairobi, Kenya
 💡 I’m passionate about leveraging data to drive impactful decision-making, solve complex problems, and generate business value.  
-  📫 How to reach me: @harrietngomo@gmail.com
+
 ---
 
 ## About Me
