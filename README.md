@@ -61,14 +61,11 @@ I wield a variety of tools and technologies to turn data into insights:
 
 
 
-### My Skills
 
-I wield a variety of tools and technologies to turn data into insights:
-┌───────────┬────────┬─────┬──────────────────┬───────────────┬──────────────────────────────┬────────────┬───────┐
-│ Big Data │ Python │ SQL │ Machine Learning │ Deep Learning │ Natural Language Processing │ TENSORFLOW │ KERAS │
-├───────────┼────────┼─────┼──────────────────┼───────────────┼──────────────────────────────┼────────────┼───────┤
-│ PYTORCH │ NUMPY │ GIT │ │ │ │ │ │
-└───────────┴────────┴─────┴──────────────────┴───────────────┴──────────────────────────────┴────────────┴───────┘
+### My Skills  
+**Technologies I work with daily:**  
+`Big Data` `Python` `SQL` `Machine Learning` `Deep Learning`  
+`PYTORCH` `NUMPY` `GIT` `TENSORFLOW` `KERAS`  
 
 
 
