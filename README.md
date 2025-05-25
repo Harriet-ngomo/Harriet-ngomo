@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<!--# 👋 Hi, I'm Harriet Ngomo
-
 🎓 **Economist & Statistician turned Data Scientist**  
 📍 **Nairobi, Kenya**  
 💡 I’m passionate about leveraging data to drive impactful decision-making, solve complex problems, and generate business value.  
