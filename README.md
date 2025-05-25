@@ -20,11 +20,41 @@ I'm a data-driven professional with a strong foundation in economics and statist
 
 ##  Technical Skills
 
-- **Programming**: Python, SQL, Git  
-- **Libraries & Tools**: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Jupyter Notebooks  
-- **Data Visualization**: Tableau, Excel, PowerBi 
-- **Soft Skills**: Communication, Problem-solving, Data storytelling  
+# Technical Skills
 
+## Programming Languages
+- **Python**: Data manipulation, analysis, scripting
+- **SQL**: Complex queries, joins, window functions, basic database design
+
+## Data Analysis & Manipulation
+- Pandas (data cleaning, feature engineering)
+- NumPy (statistical analysis, numerical computing)
+
+## Machine Learning & Statistical Modeling
+- Scikit-learn (classification, regression, clustering)
+- Statsmodels (statistical tests, regression analysis)
+- Bayesian statistics fundamentals
+
+## Data Visualization
+- **Python**: Seaborn, Matplotlib (custom visualizations)
+- **Business Intelligence**: Tableau, Power BI (interactive dashboards)
+- **Spreadsheets**: Excel (pivot tables, charts)
+
+## Tools & Platforms
+- Jupyter Notebooks (project documentation)
+- Git & GitHub (version control)
+- Kaggle (datasets and competitions)
+
+## Databases & Data Engineering
+- SQL databases (MySQL, PostgreSQL basics)
+- ETL concepts
+- Data cleaning and transformation pipelines
+
+## Professional Skills
+- Data storytelling and communication
+- Problem-solving with data-driven insights
+- Presenting technical findings to non-technical audiences
+  
 ---
 
 ## Interests
