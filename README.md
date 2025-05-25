@@ -40,6 +40,31 @@ I wield a variety of tools and technologies to turn data into insights:```text
 │ NUMPY     │ PANDAS │ GIT │ SCIKIT-LEARN     │ TABLEAU       │ SEABORN                     │          │
 └───────────┴────────┴─────┴──────────────────┴───────────────┴──────────────────────────────┴──────────┘
 
+
+### My Skills
+
+I wield a variety of tools and technologies to turn data into insights:
+
+<table>
+  <tr>
+    <th>Big Data</th>
+    <th>Python</th>
+    <th>SQL</th>
+    <th>Machine Learning</th>
+    <th>Deep Learning</th>
+    <th>Natural Language Processing</th>
+    <th>POWER BI</th>
+  </tr>
+  <tr>
+    <td>NUMPY</td>
+    <td>PANDAS</td>
+    <td>GIT</td>
+    <td>SCIKIT-LEARN</td>
+    <td>TABLEAU</td>
+    <td>SEABORN</td>
+    <td></td>
+  </tr>
+</table>
 ---
 
 ### My Interests
