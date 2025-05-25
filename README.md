@@ -1,6 +1,6 @@
 ## Hi there 👋
-🎓 **Data Scientist| Economist | Statistician**  
-📍 **Nairobi, Kenya**  
+🎓 Data Scientist| Economist | Statistician
+📍 Nairobi, Kenya
 💡 I’m passionate about leveraging data to drive impactful decision-making, solve complex problems, and generate business value.  
 📫 How to reach me: @harrietngomo@gmail.com
 ---
@@ -29,7 +29,7 @@ Recent projects include:
 ### My Skills
 
 I wield a variety of tools and technologies to turn data into insights:
-`Big Data` `Python` `SQL` `Machine Learning` ``NUMPY` `GIT`
+`Big Data` `Python` `SQL` `Machine Learning` `NUMPY` `GIT`
 
 ### My Interests
 
