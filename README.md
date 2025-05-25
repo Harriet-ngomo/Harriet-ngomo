@@ -33,9 +33,7 @@ I wield a variety of tools and technologies to turn data into insights:
 
 ### My Skills
 
-I wield a variety of tools and technologies to turn data into insights:
-
-```text
+I wield a variety of tools and technologies to turn data into insights:```text
 ┌───────────┬────────┬─────┬──────────────────┬───────────────┬──────────────────────────────┬──────────┐
 │ Big Data  │ Python │ SQL │ Machine Learning │ Deep Learning │ Natural Language Processing │ POWER BI │
 ├───────────┼────────┼─────┼──────────────────┼───────────────┼──────────────────────────────┼──────────┤
