@@ -4,7 +4,7 @@
 
 📍 Nairobi, Kenya
 
-💡 I’m passionate about leveraging data to drive impactful decision-making, solve complex problems, and generate business value.  
+💡 I’m passionate about leveraging data to drive impactful decision-making, solve complex problems, and generate business value
 
 ---
 📫 How to reach me: @harrietngomo@gmail.com
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a data-driven professional with a strong foundation in economics and statistics, currently transitioning into data science. I bring a unique perspective to data problems, combining analytical thinking with practical insights
+I'm a data driven professional with a strong foundation in economics and statistics, currently transitioning into data science. I bring a unique perspective to data problems, combining analytical thinking with practical insights
 
 Currently upskilling in Machine Learning and Advanced Analytics at **Moringa School**  
 
@@ -44,6 +44,7 @@ I wield a variety of tools and technologies to turn data into insights:
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) | ![Statsmodels](https://img.shields.io/badge/Statsmodels-8C4C94?logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-5C8DBC?logo=python&logoColor=white) |
 | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | | ![Bayesian](https://img.shields.io/badge/Bayesian-8C4C94?logo=python&logoColor=white) | ![ETL](https://img.shields.io/badge/ETL-2496ED?logo=apachespark&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) |
 
+---
 ### My Interests
 
 - Staying ahead with the latest advancements in machine learning  
