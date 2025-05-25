@@ -30,9 +30,12 @@ Recent projects include:
 
 I wield a variety of tools and technologies to turn data into insights:
 
-| Big Data | Python | SQL | Machine Learning | Deep Learning | Natural Language Processing | TENSORFLOW | KERAS |
-|----------|--------|-----|------------------|---------------|------------------------------|------------|-------|
-| PYTORCH  | NUMPY  | GIT | PANDAS           | SCIKIT-LEARN  | TABLEAU                     | POWER BI   |       |
+  ```text
+┌─────────────┬────────┬─────┬──────────────────┬───────────────┬──────────────────────────────┬────────────┐
+│ Big Data    │ Python │ SQL │ Machine Learning │ Deep Learning │ Natural Language Processing │ POWER BI   │
+├─────────────┼────────┼─────┼──────────────────┼───────────────┼──────────────────────────────┼────────────┤
+│ NUMPY       │ PANDAS │ GIT │ SCIKIT-LEARN     │ TABLEAU       │ SEABORN                     │            │
+└─────────────┴────────┴─────┴──────────────────┴───────────────┴──────────────────────────────┴────────────┘
 
 ---
 
