@@ -6,7 +6,7 @@
 
 💡 I’m passionate about leveraging data to drive impactful decision-making, solve complex problems and generate business value
 
-📫 **How to reach me:**  <br>[Email](mailto:harrietngomo@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harrietngomo/) | [GitHub](https://github.com/Harriet-ngomo)<br><br>
+**How to reach me:**  <br>[Email](mailto:harrietngomo@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harrietngomo/) | [GitHub](https://github.com/Harriet-ngomo)<br><br>
 ---
 
 ## About Me
@@ -70,7 +70,7 @@ I wield a variety of tools and technologies to turn data into insights:
 
 
 ### Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
