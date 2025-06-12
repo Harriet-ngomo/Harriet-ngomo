@@ -69,6 +69,7 @@ I wield a variety of tools and technologies to turn data into insights:
 
 ![snake gif](https://github.com/Harriet-ngomo/Harriet-ngomo/blob/output/github-snake.svg)
 
+
 ### Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
