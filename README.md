@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Harriet Ngomo!
+## 👋 Hi there, I'm Harriet Ngomo
 
 🎓 **Data Scientist| Economist | Statistician**
 
