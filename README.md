@@ -19,19 +19,19 @@
 
 I'm a data-driven professional with a background in Economics and Statistics now building on that foundation through formal training in Data Science. I've completed a Data Analysis course at ALX Africa and a Data Science program at Moringa School, gaining practical skills in Python, SQL, data visualization and Machine Learning. I'm passionate about using data to uncover insights and support meaningful decision-making
 
-class DataScientist:
+    class DataScientist:
 
-    def __init__(self):
-        self.name = "Harriet Ngomo"
-        self.background = ["Economics", "Statistics", "Public Finance"]
-        self.tools = ["Python", "SQL", "Power BI", "Excel"]
-        self.learning = "Machine Learning, Forecasting, and Cloud Analytics"
+        def __init__(self):
+            self.name = "Harriet Ngomo"
+            self.background = ["Economics", "Statistics", "Public Finance"]
+            self.tools = ["Python", "SQL", "Power BI", "Excel"]
+            self.learning = "Machine Learning, Forecasting, and Cloud Analytics"
     
-    def say_hi(self):
-        print("Hello there! I turn data into decisions that make an impact.")
+        def say_hi(self):
+            print("Hello there! I turn data into decisions that make an impact.")
 
-me = DataScientist()
-me.say_hi()
+    me = DataScientist()
+    me.say_hi()
 
 
 ---
