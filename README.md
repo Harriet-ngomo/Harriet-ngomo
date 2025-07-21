@@ -15,9 +15,44 @@
 
 ---
 
-## About Me
 
-I’m a data driven professional with a background in Economics and Statistics now building on that foundation through formal training in Data Science. I’ve completed a Data Analysis course at ALX Africa and a Data Science program at Moringa School
+# 👋 Hi there, I'm Harriet Ngomo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrietngomo/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Harriet-ngomo)
+[![Email](https://img.shields.io/badge/Email-harrietngomo@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:harrietngomo@gmail.com)
+
+---
+
+🎓 **Economist | Certified Public Accountant | Data Scientist**  
+📍 Based in Kenya | 🌍 Impact-driven | 💼 Open to remote roles
+
+---
+
+### 👩🏾‍💻 About Me
+
+```python
+class DataScientist:
+
+    def __init__(self):
+        self.name = "Harriet Ngomo"
+        self.background = ["Economics", "Statistics", "Public Finance"]
+        self.tools = ["Python", "SQL", "Power BI", "Excel"]
+        self.learning = "Machine Learning, Forecasting, and Cloud Analytics"
+    
+    def say_hi(self):
+        print("Hello there! I turn data into decisions that make an impact.")
+
+me = DataScientist()
+me.say_hi()
+
+
+
+
+
+
+
+
 ---
 
 # MY GITHUB STATS
