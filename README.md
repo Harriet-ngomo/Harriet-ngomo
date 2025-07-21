@@ -15,17 +15,9 @@
 
 ---
 
-
-# 👋 Hi there, I'm Harriet Ngomo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrietngomo/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Harriet-ngomo)
-[![Email](https://img.shields.io/badge/Email-harrietngomo@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:harrietngomo@gmail.com)
-
-
----
-
 ### 👩🏾‍💻 About Me
+
+I'm a data-driven professional with a background in Economics and Statistics now building on that foundation through formal training in Data Science. I've completed a Data Analysis course at ALX Africa and a Data Science program at Moringa School, gaining practical skills in Python, SQL, data visualization and Machine Learning. I'm passionate about using data to uncover insights and support meaningful decision-making
 
 class DataScientist:
 
