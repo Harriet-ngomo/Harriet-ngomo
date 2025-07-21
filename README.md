@@ -17,17 +17,8 @@
 
 ## About Me
 
-I'm a data driven professional with a strong foundation in economics and statistics, currently transitioning into data science. I bring a unique perspective to data problems, combining analytical thinking with practical insights
+I’m a data driven professional with a background in Economics and Statistics now building on that foundation through formal training in Data Science. I’ve completed a Data Analysis course at ALX Africa and a Data Science program at Moringa School, gaining practical skills in Python, SQL and data visualization. I’m passionate about using data to uncover insights and support meaningful decision-making
 
-Currently upskilling in Machine Learning and Advanced Analytics at **Moringa School**  
-
-Recent projects include:
-- **Aviation Risk Analysis** – Identifying safe aircraft for business expansion  
-- **Movie Revenue Insights** – Analyzing genre performance across global markets  
-- **Real Estate Market Analysis** – Exploring housing trends in Mexico and Brazil  
-- **A classification model for taxpayer risk** 
-- **Stock trend analysis using language models**  
-- **A machine learning project on diabetes prediction**
 ---
 
 # MY GITHUB STATS
