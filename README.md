@@ -22,16 +22,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Harriet-ngomo)
 [![Email](https://img.shields.io/badge/Email-harrietngomo@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:harrietngomo@gmail.com)
 
----
-
-🎓 **Economist | Certified Public Accountant | Data Scientist**  
-📍 Based in Kenya | 🌍 Impact-driven | 💼 Open to remote roles
 
 ---
 
 ### 👩🏾‍💻 About Me
 
-```python
 class DataScientist:
 
     def __init__(self):
@@ -45,12 +40,6 @@ class DataScientist:
 
 me = DataScientist()
 me.say_hi()
-
-
-
-
-
-
 
 
 ---
