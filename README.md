@@ -15,7 +15,7 @@
 
 ---
 
-### 👩🏾‍💻 About Me
+### About Me
 
 I'm a data-driven professional with a background in Economics and Statistics now building on that foundation through formal training in Data Science. I've completed a Data Analysis course at ALX Africa and a Data Science program at Moringa School, gaining practical skills in Python, SQL, data visualization and Machine Learning. I'm passionate about using data to uncover insights and support meaningful decision-making
 
