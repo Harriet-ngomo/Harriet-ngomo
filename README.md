@@ -11,7 +11,8 @@
 📍 Nairobi, Kenya
 
 💡 I transform data into actionable insights and drive impactful decision-making with expertise in Python, SQL, Excel and Data Visualization tools like Power BI and Tableau.
-</h4>
+
+</h3>
 
 ### 🙋‍♀️ About Me
 
@@ -33,7 +34,7 @@
 
     me = DataScientist()
     me.say_hi()
-
+  
 ---
 
 <div align="center">
@@ -80,7 +81,6 @@
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
 
-
 ---
 ## 🌐 Socials:
 
@@ -104,7 +104,6 @@ I wield a variety of tools and technologies to turn data into insights:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-
 ### Technical Skills 
 
 | Data Core       | Programming    | ML/Stats       | Data Tools     | Visualization       |
@@ -115,7 +114,6 @@ I wield a variety of tools and technologies to turn data into insights:
 
 ---
 ![snake gif](https://github.com/Harriet-ngomo/Harriet-ngomo/blob/output/github-snake.svg)
-
 
 ### Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
