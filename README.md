@@ -21,6 +21,8 @@
 - 💡 Ask me about **Data Analysis, Public Finance, ML, Python, or SQL**  
 - 📨 Reach me at: **harrietngomo@gmail.com**
 
+<h3 align="center">📂 Feel free to explore my projects below and see what I’ve been working on!</h3>
+
   class DataScientist:
 
         def __init__(self):
