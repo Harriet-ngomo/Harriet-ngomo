@@ -1,3 +1,118 @@
+<h1 align="center" style="font-weight: normal;">
+  👋 Hi, I'm Harriet Ngomo!  
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</h1>
+
+<h4 align="center">
+🎓 I'm a Data Scientist | Economist | Statistician from Nairobi, Kenya.  
+I transform data into actionable insights and drive impactful decision-making with expertise in Python, SQL, Excel, and Data Visualization tools like Power BI and Tableau.
+</h4>
+
+---
+
+### 🙋‍♀️ About Me  
+- 🔍 I’m passionate about data-driven storytelling and using statistics to guide impactful policies and business decisions.  
+- 📘 Currently deepening my ML & forecasting skills, and exploring cloud analytics.  
+- 🧠 I’ve trained in Data Analysis at **ALX Africa** and Data Science at **Moringa School**.  
+- 💡 Ask me about **Data Analysis, Public Finance, ML, Python, or SQL**  
+- 📨 Reach me at: **harrietngomo@gmail.com**
+
+---
+
+<div align="center">
+ <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack & Tools &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> </h2>
+</div>
+
+<img align="right" alt="Coding" width="45%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🔧 Languages & Libraries
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+</p>
+
+### 📊 Data Viz & BI
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Seaborn-5C8DBC?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
+</p>
+
+### 🧠 Machine Learning & Forecasting
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Statsmodels-8C4C94?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bayesian-8C4C94?style=for-the-badge&logo=python&logoColor=white"/></a>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/ETL-2496ED?style=for-the-badge&logo=apachespark&logoColor=white"/></a>
+</p>
+
+### 💻 Dev Tools
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harriet-ngomo&layout=compact&hide=html,css,c&langs_count=6&theme=merko" alt="Top Langs"/>
+</div>
+
+---
+
+<h2 align="center">🌍 Interests</h2>
+
+<ul align="center">
+  <li>📈 Exploring the intersection of Data & Economics</li>
+  <li>🧪 Experimenting with Machine Learning models for real-world impact</li>
+  <li>🤝 Building with communities of passionate data enthusiasts</li>
+</ul>
+
+---
+
+<h2 align="center">🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Harriet-ngomo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:harrietngomo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Harriet-ngomo"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">💬 Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Harriet-ngomo/Harriet-ngomo/blob/output/github-snake.svg" alt="snake"/>
+</p>
+
+
+
+
 ## 👋 Hi there, I'm Harriet Ngomo
 
 🎓 **Data Scientist| Economist | Statistician**
