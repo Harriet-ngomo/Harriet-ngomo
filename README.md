@@ -131,9 +131,9 @@ I wield a variety of tools and technologies to turn data into insights:
 ### Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h2 align="center">🌍 Interests</h2>
+<h2 align="center"> ❤️Interests</h2>
 
-<ul align="center">
+<ul align="Left">
   <li>📈 Exploring the intersection of Data & Economics</li>
   <li>🧪 Experimenting with Machine Learning models for real-world impact</li>
   <li>🤝 Building with communities of passionate data enthusiasts</li>
