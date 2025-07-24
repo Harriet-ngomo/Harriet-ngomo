@@ -20,9 +20,11 @@
 - 🧠 I’ve trained in Data Analysis at **ALX Africa** and Data Science at **Moringa School**.  
 - 💡 Ask me about **Data Analysis, Public Finance, ML, Python, or SQL**  
 - 📨 Reach me at: **harrietngomo@gmail.com**
+---
 
-<h3 align="center">📂 Feel free to explore my projects below and see what I’ve been working on!</h3>
+<h3 align="center">📂 Feel free to check out my projects in the <a href="https://github.com/Harriet-ngomo?tab=repositories" target="_blank">Repositories</a> section of my GitHub!</h3>
 
+---
   class DataScientist:
 
         def __init__(self):
