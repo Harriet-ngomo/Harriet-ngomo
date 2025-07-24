@@ -122,10 +122,14 @@ I wield a variety of tools and technologies to turn data into insights:
 ---
 <h2 align="center"> ❤️Interests</h2>
 
-<ul align="Left">
+<ul align="left">
   <li>📈 Exploring the intersection of Data & Economics</li>
   <li>🧪 Experimenting with Machine Learning models for real-world impact</li>
   <li>🤝 Building with communities of passionate data enthusiasts</li>
 </ul>
+
+<h3 align="center">✨ Thanks for stopping by!</h3>
+
+---
 
 
