@@ -87,33 +87,6 @@
 </p>
 
 ---
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harriet-ngomo&layout=compact&hide=html,css,c&langs_count=6&theme=merko" alt="Top Langs"/>
-</div>
-
----
-
-<h2 align="center">🌍 Interests</h2>
-
-<ul align="center">
-  <li>📈 Exploring the intersection of Data & Economics</li>
-  <li>🧪 Experimenting with Machine Learning models for real-world impact</li>
-  <li>🤝 Building with communities of passionate data enthusiasts</li>
-</ul>
-
-
-<h2 align="center">🔗 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/Harriet-ngomo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harrietngomo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Harriet-ngomo"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
-</p>
-
----
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harriet-ngomo)  
@@ -157,6 +130,14 @@ I wield a variety of tools and technologies to turn data into insights:
 
 ### Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<h2 align="center">🌍 Interests</h2>
+
+<ul align="center">
+  <li>📈 Exploring the intersection of Data & Economics</li>
+  <li>🧪 Experimenting with Machine Learning models for real-world impact</li>
+  <li>🤝 Building with communities of passionate data enthusiasts</li>
+</ul>
 
 
 
