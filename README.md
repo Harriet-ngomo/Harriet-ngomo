@@ -37,12 +37,12 @@
 ---
 
 <div align="center">
- <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack & Tools &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> </h2>
+ <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; TECH STACK & TOOLS &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> </h2>
 </div>
 
 <img align="right" alt="Coding" width="45%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### Languages & Libraries
+# Languages & Libraries
 
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50"/></a>
@@ -52,7 +52,7 @@
   <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
 </p>
 
-### Data Viz & BI
+# Data Viz & BI
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -61,7 +61,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 </p>
 
-### Machine Learning & Forecasting
+# Machine Learning & Forecasting
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
@@ -69,7 +69,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Bayesian-8C4C94?style=for-the-badge&logo=python&logoColor=white"/></a>
 </p>
 
-### Databases & Tools
+# Databases & Tools
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
@@ -119,7 +119,7 @@ I wield a variety of tools and technologies to turn data into insights:
 
 ### Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+---
 <h2 align="center"> ❤️Interests</h2>
 
 <ul align="Left">
