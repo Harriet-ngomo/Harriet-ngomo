@@ -5,18 +5,40 @@
 </h1>
 
 <h4 align="center">
-🎓 I'm a Data Scientist | Economist | Statistician from Nairobi, Kenya.  
-I transform data into actionable insights and drive impactful decision-making with expertise in Python, SQL, Excel, and Data Visualization tools like Power BI and Tableau.
+  
+🎓 **Data Scientist| Economist | Statistician**
+
+📍 Nairobi, Kenya
+
+💡 I transform data into actionable insights and drive impactful decision-making with expertise in Python, SQL, Excel, and Data Visualization tools like Power BI and Tableau.
 </h4>
 
 ---
 
 ### 🙋‍♀️ About Me  
-- 🔍 I’m passionate about data-driven storytelling and using statistics to guide impactful policies and business decisions.  
-- 📘 Currently deepening my ML & forecasting skills, and exploring cloud analytics.  
+- 🔍 I’m passionate about data-driven storytelling and using statistics to guide impactful policies and business decisions.    
 - 🧠 I’ve trained in Data Analysis at **ALX Africa** and Data Science at **Moringa School**.  
 - 💡 Ask me about **Data Analysis, Public Finance, ML, Python, or SQL**  
 - 📨 Reach me at: **harrietngomo@gmail.com**
+
+  class DataScientist:
+
+        def __init__(self):
+            self.name = "Harriet Ngomo"
+            self.background = ["Economics", "Statistics", "Public Finance"]
+            self.tools = ["Python", "SQL", "Power BI", "Excel"]
+            self.learning = "Machine Learning, Forecasting, and Cloud Analytics"
+    
+        def say_hi(self):
+            print("Hello there! I turn data into decisions that make an impact.")
+
+    me = DataScientist()
+    me.say_hi()
+
+
+
+
+
 
 ---
 
@@ -26,7 +48,7 @@ I transform data into actionable insights and drive impactful decision-making wi
 
 <img align="right" alt="Coding" width="45%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🔧 Languages & Libraries
+### **Languages & Libraries**
 
 <p align="left">
   <a href="#"><img src="https://skillicons.dev/icons?i=python" width="50"/></a>
@@ -45,7 +67,7 @@ I transform data into actionable insights and drive impactful decision-making wi
   <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 </p>
 
-### 🧠 Machine Learning & Forecasting
+### **Machine Learning & Forecasting**
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
@@ -53,7 +75,7 @@ I transform data into actionable insights and drive impactful decision-making wi
   <a href="#"><img src="https://img.shields.io/badge/Bayesian-8C4C94?style=for-the-badge&logo=python&logoColor=white"/></a>
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ **Databases & Tools**
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
@@ -61,7 +83,7 @@ I transform data into actionable insights and drive impactful decision-making wi
   <a href="#"><img src="https://img.shields.io/badge/ETL-2496ED?style=for-the-badge&logo=apachespark&logoColor=white"/></a>
 </p>
 
-### 💻 Dev Tools
+### 💻**Dev Tools**
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
@@ -112,41 +134,11 @@ I transform data into actionable insights and drive impactful decision-making wi
 
 
 
-
-## 👋 Hi there, I'm Harriet Ngomo
-
-🎓 **Data Scientist| Economist | Statistician**
-
-📍 Nairobi, Kenya
-
-💡 I’m passionate about leveraging data to drive impactful decision-making, solve complex problems and generate business value
-
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harriet-ngomo)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](harrietngomo@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Harriet-ngomo)
-
-
-
-### About Me
-
-I'm a data-driven professional with a background in Economics and Statistics now building on that foundation through formal training in Data Science. I've completed a Data Analysis course at ALX Africa and a Data Science program at Moringa School gaining practical skills in Python, SQL, data visualization and Machine Learning.
-
-    class DataScientist:
-
-        def __init__(self):
-            self.name = "Harriet Ngomo"
-            self.background = ["Economics", "Statistics", "Public Finance"]
-            self.tools = ["Python", "SQL", "Power BI", "Excel"]
-            self.learning = "Machine Learning, Forecasting, and Cloud Analytics"
-    
-        def say_hi(self):
-            print("Hello there! I turn data into decisions that make an impact.")
-
-    me = DataScientist()
-    me.say_hi()
 
 
 
