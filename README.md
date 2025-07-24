@@ -27,7 +27,7 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
-  class DataScientist:
+    class DataScientist:
 
         def __init__(self):
             self.name = "Harriet Ngomo"
@@ -135,6 +135,5 @@ I wield a variety of tools and technologies to turn data into insights:
 
 <h3 align="center">✨ Thanks for stopping by!</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
----
 
 
