@@ -40,7 +40,7 @@
  <h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35">&nbsp; Tech Stack & Tools &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif", width="35" height="35"> </h2>
 </div>
 
-<img align="right" alt="Baddie Coding" width="45%" src="https://media.giphy.com/media/MB4ezpZZEH2Qe/giphy.gif">
+<img align="right" alt="Coding" width="45%" src="https://i.pinimg.com/originals/4c/79/64/4c796438df25caa2537d4b75ad9f21f0.gif">
 
 ### Languages & Libraries
 
