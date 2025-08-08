@@ -23,7 +23,14 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
-<h3 align="center">📂 Feel free to check out my projects in the <a href="https://github.com/Harriet-ngomo?tab=repositories" target="_blank">Repositories</a> section of my GitHub!</h3> or [Data Science Profile](https://www.datascienceportfol.io/harrietngomo)
+<h3 align="center">
+  📂 Feel free to check out my projects in the 
+  <a href="https://github.com/Harriet-ngomo?tab=repositories" target="_blank" rel="noopener noreferrer">
+    Repositories
+  </a> section of my GitHub!  
+  Or view my <a href="https://www.datascienceportfol.io/harrietngomo" target="_blank" rel="noopener noreferrer">Data Science Profile</a>.
+</h3>
+
 
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -78,8 +85,14 @@
   
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harriet-ngomo)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](harrietngomo@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Harriet-ngomo)
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> [Data Science Profile](https://www.datascienceportfol.io/harrietngomo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harriet-ngomo)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harrietngomo@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Harriet-ngomo)  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+[Data Science Profile](https://www.datascienceportfol.io/harrietngomo)
+
 
 # MY GITHUB STATS
 
