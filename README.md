@@ -1,5 +1,6 @@
 <h1 align="center" style="font-weight: normal;">
   👋 Hi, I'm Harriet Ngomo!  
+[Data Science Profile](https://www.datascienceportfol.io/harrietngomo)
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </h1>
@@ -24,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
 <h3 align="center">
-  📂 Feel free to check out my projects in  my <a href="https://www.datascienceportfol.io/harrietngomo" target="_blank" rel="noopener noreferrer">Data Science Profile</a>.
+  📂 Feel free to check out my projects in  my <a href="https://www.datascienceportfol.io/harrietngomo" target="_blank" rel="noopener noreferrer">Data Science Portfol.io</a>.
 </h3>
 
 
