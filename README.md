@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://www.datascienceportfol.io/harrietngomo" target="_blank">
-    📂 View My Data Science Portfolio
+    📂 View My DATASCIENCE PORTFOLIO Science 
   </a>
 </p>
 
@@ -20,12 +20,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
-
-🎓 **Data Scientist| Economist | Statistician**
-
-📍 Nairobi, Kenya
-
-💡 I transform data into actionable insights and drive impactful decision-making with expertise in Python, SQL, Excel and Data Visualization tools like Power BI and Tableau.
 
 </h3>
 
@@ -35,6 +29,10 @@
 - 🧠 I’ve trained in Data Analysis at **ALX Africa** and Data Science at **Moringa School**.  
 - 💡 Ask me about **Data Analysis, Public Finance, ML, Python, or SQL**  
 - 📨 Reach me at: **harrietngomo@gmail.com**
+- 📍 Nairobi, Kenya
+
+
+
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
