@@ -17,10 +17,15 @@
 </p>
 
 <p align="center">
+  <a href="https://harrietngomo.wixsite.com/harriet-ngomo" target="_blank">
+    🌐 <strong>DATASCIENCE SITE</strong>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
-
 
 ### 🙋‍♀️ About Me
 
@@ -100,7 +105,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 **[Data Science Profile](https://www.datascienceportfol.io/harrietngomo)**
-
+<p align="center">
+  <a href="https://harrietngomo.wixsite.com/harriet-ngomo" target="_blank">
+    🌐 <strong>DATASCIENCE SITE</strong>
+  </a>
+</p>
 # MY GITHUB STATS
 
 ## Most Used Languages
