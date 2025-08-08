@@ -128,18 +128,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harriet-ngomo&layout=compact&hide=html,css,cython,c&langs_count=6&theme=merko)
 
 
-### My Skills
-
-I wield a variety of tools and technologies to turn data into insights:
-
-![Big Data](https://img.shields.io/badge/Big_Data-F46800?logo=apachehadoop&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0696D7?logo=scikit-learn&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-### Technical Skills 
+## Technical Skills 
 
 | Data Core       | Programming    | ML/Stats       | Data Tools     | Visualization       |
 |-----------------|----------------|----------------|----------------|---------------------|
