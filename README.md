@@ -1,12 +1,26 @@
 <h1 align="center" style="font-weight: normal;">
-  👋 Hi, I'm Harriet Ngomo!  
-[Data Science Profile](https://www.datascienceportfol.io/harrietngomo)
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  👋 Hey there, I'm <strong>Harriet Ngomo</strong>!
 </h1>
 
-<h4 align="center">
-  
+<h3 align="center">
+  Economist • Data Scientist • Data Analyst  
+</h3>
+
+<p align="center">
+  Using data to drive insights, innovation, and impactful decisions.
+</p>
+
+<p align="center">
+  <a href="https://www.datascienceportfol.io/harrietngomo" target="_blank">
+    📂 View My Data Science Portfolio
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
 🎓 **Data Scientist| Economist | Statistician**
 
 📍 Nairobi, Kenya
