@@ -19,16 +19,7 @@
     </td>
     <td align="center" style="padding: 0 20px;">
       <a href="https://harrietngomo.wixsite.com/harriet-ngomo" target="_blank" style="font-weight: bold; text-decoration: none;">
-        🌐 DATASCIENCE SITE
-      </a>
-    </td>
-  </tr>
-</table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 
 ### 🙋‍♀️ About Me
@@ -115,11 +106,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://harrietngomo.wixsite.com/harriet-ngomo" target="_blank">
-        🌐 <strong>DATASCIENCE SITE</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 # MY GITHUB STATS
 
