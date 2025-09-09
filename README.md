@@ -35,8 +35,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="center">
-  📂 Feel free to check out my projects in my <a href="https://www.datascienceportfol.io/harrietngomo" target="_blank" rel="noopener noreferrer">Data Science Portfol.io</a>.
-</h3>
+  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
