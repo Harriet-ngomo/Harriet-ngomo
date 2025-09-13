@@ -91,9 +91,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
-
-# 📊 My GitHub Stats  
-
 ## Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harriet-ngomo&layout=compact&hide=html,css,cython,c&langs_count=6&theme=merko)
 
